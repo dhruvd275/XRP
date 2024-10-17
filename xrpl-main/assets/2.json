@@ -1,0 +1,21 @@
+{
+    "name": "ELECTRIC #0003",
+    "symbol": "Elect",
+    "description": "Collection of 4 numbers on the blockchain. This is the number 3/4.",
+    "seller_fee_basis_points": 750,
+    "image": "https://bafybeiayor6j776mjizugeiqs3j76cdtju5az2362cix3aydinwsp2kbs4.ipfs.nftstorage.link/",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Northern-lights"
+        },
+        {
+            "trait_type": "Base-colour",
+            "value": "light"
+        },
+        {
+            "trait_type": "HouseType",
+            "value": "modern"
+        }
+    ]
+}

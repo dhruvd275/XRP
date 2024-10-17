@@ -1,0 +1,24 @@
+{
+    "schema": "https://decentrame.com/decentrame.v0Schema",
+    "nftType": "decentrame.v0",
+    "name": "",
+    "category": "Art",
+    "description": "The purpose of the Yonixart collective is to givecreatives the possibilityto join together increating for our collectivegains and to makeinvesting in our labourpossible in a way wherecreators and investors are in symbiosis.",
+    "image": "ipfs://bafybeifsev67di36l72rz6qsju7bvriwy3zkmldjawmpu5vxiotayta56m",
+    "video": null,
+    "animation": null,
+    "audio": null,
+    "file": null,
+    "external_link": "https://www.yoniverse.one/",
+    "collection": {
+        "name": "Yonniverse",
+        "family": ""
+    },
+    "attributes": [
+        {
+            "name": "Loction",
+            "value": "Desert",
+            "description": null
+        }
+    ]
+}

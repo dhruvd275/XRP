@@ -1,0 +1,35 @@
+{
+    "schema": "https://nftmaster.com/nftmaster.v0Schema",
+    "nftType": "nftmaster.v0",
+    "name": "Electric",
+    "category": "Art",
+    "description": "The purpose of making to believe in future .",
+    "image": "ipfs://bafybeibrgonmpmvqc5a6wc7d5wfcmsrp2qzcuced4pdfqozgvuhsinirp4",
+    "video": null,
+    "animation": null,
+    "audio": null,
+    "file": null,
+    "external_link": "https://www.elctrify.one/",
+    "collection": {
+        "name": "Future",
+        "family": null
+    },
+    "attributes": [
+        {
+            "name": "Background",
+            "value": "Ocean",
+            "description": null
+        },
+        {
+            "name": "Front",
+            "value": "bonfire",
+            "description": null
+        },
+        {
+            "name": "House",
+            "value": "True",
+            "description": null
+        }
+    ]
+}
+

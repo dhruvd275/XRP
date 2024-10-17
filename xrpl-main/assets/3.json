@@ -1,0 +1,21 @@
+{
+    "name": "ELECTRIC #0004",
+    "symbol": "Elect",
+    "description": "Collection of 4 numbers on the blockchain. This is the number 4/4.",
+    "seller_fee_basis_points": 750,
+    "image": "https://bafybeigbg2rxvfj6r7cmnag3dmnb57c3qmj7k36onozw7m4nmmq4ajts24.ipfs.nftstorage.link/",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Base-colour",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "HouseType",
+            "value": "Island"
+        }
+    ]
+}
